@@ -1,0 +1,12 @@
+#gallery{
+    width: 100%;
+    display: inline-block;
+    background-color: rgb(101, 101, 101);
+    
+    overflow: auto;
+}
+
+#gallery img{
+    margin: 10px 10px;
+    height: 200px;
+}
