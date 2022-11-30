@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "This is 20223067 Kim Ho"
 date: 2022-11-30 18:14:09 +0900
 categories: jekyll update
+comments: true
 ---
 
 hello kimho
